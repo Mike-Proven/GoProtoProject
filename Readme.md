@@ -1,0 +1,1 @@
+This is just a collection of projects I made to learn.

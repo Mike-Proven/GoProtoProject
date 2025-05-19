@@ -7,12 +7,14 @@
 
 # Test binary, built with `go test -c`
 *.test
+GoProtoProject
+thunder-tests/
 
 # Output of the go coverage tool
 *.out
 
 # Dependency directories (managed by Go modules)
-vendor/
+# vendor/ # recommended to add it...
 
 # Go workspace file
 go.work
